@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
 
-Halo，I'm honored that you opened this page.
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZJJ087&show_icons=true)
 
